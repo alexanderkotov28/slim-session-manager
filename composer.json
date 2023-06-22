@@ -8,7 +8,6 @@
         }
     ],
     "require": {
-        "slim/slim": "2.*",
         "illuminate/session": "10.*"
     },
     "require-dev": {
